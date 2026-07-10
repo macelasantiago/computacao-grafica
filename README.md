@@ -1,2 +1,2 @@
 # trabalho-computacao-grafica
-Esse repositório contem os códigos fonte do trabalho final da disciplina de computação gráfica, feita no semestre 2026.1.
+Este repositório contém o código-fonte do trabalho final da disciplina de Computação Gráfica, desenvolvido durante o semestre 2026.1.
